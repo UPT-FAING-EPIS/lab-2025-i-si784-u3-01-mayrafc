@@ -1,7 +1,7 @@
 name: Tarea Automatizada de ejecución de pruebas
 
 env:
-  DOTNET_VERSION: '8.x'                     # la versión de .NET
+  DOTNET_VERSION: '8.x'                     
   SONAR_ORG: 'apibankk'                     # Nombre de la organización de sonar cloud
   SONAR_PROJECT: 'apibankk_bancaapp'        # Key ID del proyecto de sonar
 
